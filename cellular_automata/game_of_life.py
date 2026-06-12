@@ -1,6 +1,7 @@
 import copy
 from pyray import * #type:ignore
 
+# pulled from las-r/small-games-python
 # conway's game of life
 # made by las-r on github
 # v1.1
