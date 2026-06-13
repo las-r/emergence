@@ -1,5 +1,9 @@
 from pyray import * #type:ignore
 
+# wireworld
+# designed by brian silverman
+# implemented by las-r
+
 # settings
 WIDTH, HEIGHT = 800, 800
 TW, TH = 20, 20

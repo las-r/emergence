@@ -1,10 +1,10 @@
 import copy
 from pyray import * #type:ignore
 
+# game of life
+# designed by john conway
+# implemented by las-r
 # pulled from las-r/small-games-python
-# conway's game of life
-# made by las-r on github
-# v1.1
 
 # settings
 WIDTH, HEIGHT = 800, 600
